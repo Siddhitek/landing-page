@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (0.92.5+69)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="/home/ryarasi/Desktop/siddhiBitsLogo.png"
+   inkscape:export-xdpi="91.504189"
+   inkscape:export-ydpi="91.504189">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4531">
+      <circle
+         id="circle4533"
+         cx="79.658493"
+         cy="130.3125"
+         r="36.285713"
+         style="fill:#ff8100;fill-opacity:0.36190479;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4548">
+      <g
+         inkscape:label="Clip"
+         id="use4550">
+        <circle
+           clip-path="url(#clipPath4531)"
+           style="fill:#00ff00;fill-opacity:0.35294118;stroke-width:0.26458332"
+           r="36.285713"
+           cy="130.3125"
+           cx="135.78793"
+           id="circle4617" />
+        <circle
+           transform="rotate(-44.875143,107.72339,153.3127)"
+           id="circle4619"
+           cx="135.78793"
+           cy="130.3125"
+           r="36.285713"
+           style="fill:#ff0000;fill-opacity:0.35294118;stroke-width:0.26458332"
+           clip-path="url(#clipPath4531)" />
+        <circle
+           clip-path="url(#clipPath4531)"
+           style="fill:#0000ff;fill-opacity:0.35294118;stroke-width:0.26458332"
+           r="36.285713"
+           cy="130.3125"
+           cx="135.78793"
+           id="circle4621"
+           transform="matrix(-0.708646,-0.7055642,-0.7055642,0.708646,292.23259,120.67312)" />
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="113.28707"
+     inkscape:cy="245.17764"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       position="63.749999,131.013"
+       orientation="1,0"
+       id="guide4556"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="63.749999,62.112999"
+       orientation="0,1"
+       id="guide4587"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="BG Circle"
+     style="display:inline">
+    <circle
+       transform="translate(0,-164.70832)"
+       r="35"
+       cx="63.75"
+       cy="221.2606"
+       id="circle4609"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.27652219"
+       inkscape:export-filename="/home/ryarasi/Desktop/circle4609.png"
+       inkscape:export-xdpi="91.504189"
+       inkscape:export-ydpi="91.504189" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.27652219"
+       id="path4605"
+       cy="56.573036"
+       cx="63.75"
+       r="35"
+       inkscape:export-filename="/home/ryarasi/Desktop/siddhiBitsLogo.png"
+       inkscape:export-xdpi="181.42999"
+       inkscape:export-ydpi="181.42999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Lotus"
+     style="display:inline">
+    <circle
+       clip-path="url(#clipPath4531)"
+       style="display:inline;fill:#ff9933;fill-opacity:0.39215686;stroke-width:0.26458332"
+       r="36.285713"
+       cy="130.3125"
+       cx="135.78793"
+       id="path10"
+       transform="translate(-43.973383,-61.771046)" />
+    <circle
+       transform="rotate(-44.875143,10.942045,175.67176)"
+       id="circle4535"
+       cx="135.78793"
+       cy="130.3125"
+       r="36.285713"
+       style="display:inline;fill:#ff9933;fill-opacity:0.39215686;stroke-width:0.26458332"
+       clip-path="url(#clipPath4531)" />
+    <circle
+       clip-path="url(#clipPath4531)"
+       style="display:inline;fill:#ff9933;fill-opacity:0.39215686;stroke-width:0.26458332"
+       r="36.285713"
+       cy="130.3125"
+       cx="135.78793"
+       id="circle4539"
+       transform="matrix(-0.708646,-0.70556419,-0.70556419,0.708646,248.2592,58.902075)" />
+  </g>
+</svg>
