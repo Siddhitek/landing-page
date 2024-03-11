@@ -7,10 +7,15 @@
   margin: 0;
 }
 
+
 #logo {
   width: 100px;
   display: block;
   margin: auto;
+}
+
+.center {
+  text-align: center;
 }
 
 .container {
@@ -59,4 +64,15 @@
   #footer {
     font-size: 0.8em;
   }
+}
+
+.button {
+  background: #FFD7AF;
+  color: #000;
+  border: 0;
+  border-radius: 99px;
+  padding: 15px 30px;
+  font-size: 1.2em;
+  font-weight: bold;
+  font-family: garamond;
 }
